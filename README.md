@@ -27,11 +27,10 @@
 
 ## 💻 Principais Linguagens
 
-<div align="center">
 | Linguagens de Programação | Linguagens de Marcação/Estilo |
 | :--- | :--- |
 | <br>**<img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=white&label=LOGO"/> Java** <br><img src="https://progress-bar.dev/65/?title=65%25&width=450&color=6C2BD9&title_color=bf8fff&title_align=right" alt="Java 65%"><br><br>**<img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white&label=LOGO"/> Python** <br><img src="https://progress-bar.dev/20/?title=20%25&width=450&color=6C2BD9&title_color=bf8fff&title_align=right" alt="Python 20%"><br><br>**<img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white&label=LOGO"/> JavaScript** <br><img src="https://progress-bar.dev/15/?title=15%25&width=450&color=6C2BD9&title_color=bf8fff&title_align=right" alt="JavaScript 15%"> | <br>**<img src="https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=white&label=LOGO"/> HTML** <br><img src="https://progress-bar.dev/90/?title=90%25&width=450&color=6C2BD9&title_color=bf8fff&title_align=right" alt="HTML 90%"><br><br>**<img src="https://img.shields.io/badge/XML-000?style=for-the-badge&logo=xml&logoColor=white&label=LOGO"/> XML** <br><img src="https://progress-bar.dev/75/?title=75%25&width=450&color=6C2BD9&title_color=bf8fff&title_align=right" alt="XML 75%"><br><br>**<img src="https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=white&label=LOGO"/> CSS** <br><img src="https://progress-bar.dev/80/?title=80%25&width=450&color=6C2BD9&title_color=bf8fff&title_align=right" alt="CSS 80%"> |
-</div>
+
 ---
 
 ## 🧠 Tecnologias & 🏆 Linguagem Top 1
