@@ -50,6 +50,14 @@
 
 ---
 
+## 🧠 Tecnologias & 🏆 Linguagem Top 1
+
+| TOP 1 - Linguagem Programação | Principais Tecnologias |
+| :--- | :--- |
+| <div align="center"><br> <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaquielRA&repo=Java&theme=midnight-purple&title_color=bf8fff&bg_color=0d0b24&border_color=6c2bd9" alt="Java destaque" width="100%"/> <br>**Java** é a minha principal linguagem. </div> | **Principais Tecnologias**<br><br> <div align="center"><table><thead><tr><th align="center">Automação de Build</th><th align="center">IDEs</th><th align="center">Bancos de Dados</th></tr></thead><tbody><tr><td align="center"><img src="https://img.shields.io/badge/Gradle-6C2BD9?style=for-the-badge&logo=gradle&logoColor=white&label=LOGO"/></td><td align="center"><img src="https://img.shields.io/badge/VS%20Code-6C2BD9?style=for-the-badge&logo=visualstudiocode&logoColor=white&label=LOGO"/><br><img src="https://img.shields.io/badge/IntelliJ-6C2BD9?style=for-the-badge&logo=intellijidea&logoColor=white&label=LOGO"/><br><img src="https://img.shields.io/badge/Android%20Studio-6C2BD9?style=for-the-badge&logo=androidstudio&logoColor=white&label=LOGO"/></td><td align="center"><img src="https://img.shields.io/badge/MySQL-6C2BD9?style=for-the-badge&logo=mysql&logoColor=white&label=LOGO"/></td></tr></tbody></table></div>|
+
+---
+
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
