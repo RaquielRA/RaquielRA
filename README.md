@@ -1,9 +1,6 @@
 <div align="center">
 
 # Desenvolvedora Back-End | Web e Mobile
-
-<img src="img/capa.png" alt="Capa de apresentação" width="100%" style="border-radius:16px;"/>
-
 ---
 
 ### 🌐 Conecte-se comigo
@@ -25,11 +22,11 @@
 
 ---
 
-## 🎓 Minha Formação & ⚙️ Meu Nível
+## 🎓 Minha Formação
 
 | Minha Formação | Meu Nível |
 | :--- | :--- |
-| **Desenvolvo soluções digitais** com foco em **segurança, performance e escalabilidade**, aplicando boas práticas de engenharia de software. | **Pleno**<br><br> [![Nível Pleno](https://progress-bar.dev/60/?scale=100&title=Pleno&width=200&color=6C2BD9&title_color=bf8fff&title_align=left)](https://github.com/RaquielRA) |
+| **Graduanda Engenharia de Software na Universidade de Vassouras** | **Júnior em Java**<br><br> |
 
 ---
 
@@ -45,7 +42,7 @@
 
 | TOP 1 - Linguagem Programação | Principais Tecnologias |
 | :--- | :--- |
-| <div align="center"><br> <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaquielRA&repo=Java&theme=midnight-purple&title_color=bf8fff&bg_color=0d0b24&border_color=6c2bd9" alt="Java destaque" width="100%"/> <br>**Java** é a minha principal linguagem. </div> | <div align="center"><table><thead><tr><th align="center">Automação de Build</th><th align="center">IDEs</th><th align="center">Bancos de Dados</th></tr></thead><tbody><tr><td align="center"><img src="https://img.shields.io/badge/Gradle-6C2BD9?style=for-the-badge&logo=gradle&logoColor=white"/></td><td align="center"><img src="https://img.shields.io/badge/VS%20Code-6C2BD9?style=for-the-badge&logo=visualstudiocode&logoColor=white"/><br><img src="https://img.shields.io/badge/IntelliJ-6C2BD9?style=for-the-badge&logo=intellijidea&logoColor=white"/><br><img src="https://img.shields.io/badge/Android%20Studio-6C2BD9?style=for-the-badge&logo=androidstudio&logoColor=white"/></td><td align="center"><img src="https://img.shields.io/badge/MySQL-6C2BD9?style=for-the-badge&logo=mysql&logoColor=white"/></td></tr></tbody></table></div>|
+| <div align="center">**Java**</div> | <div align="center"><table><thead><tr><th align="center">Automação de Build</th><th align="center">IDEs</th><th align="center">Bancos de Dados</th></tr></thead><tbody><tr><td align="center"><img src="https://img.shields.io/badge/Gradle-6C2BD9?style=for-the-badge&logo=gradle&logoColor=white"/></td><td align="center"><img src="https://img.shields.io/badge/VS%20Code-6C2BD9?style=for-the-badge&logo=visualstudiocode&logoColor=white"/><br><img src="https://img.shields.io/badge/IntelliJ-6C2BD9?style=for-the-badge&logo=intellijidea&logoColor=white"/><br><img src="https://img.shields.io/badge/Android%20Studio-6C2BD9?style=for-the-badge&logo=androidstudio&logoColor=white"/></td><td align="center"><img src="https://img.shields.io/badge/MySQL-6C2BD9?style=for-the-badge&logo=mysql&logoColor=white"/></td></tr></tbody></table></div>|
 
 ---
 
