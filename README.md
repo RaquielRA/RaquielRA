@@ -19,18 +19,10 @@
 
 </div>
 
-
----
-
-## 🎓 Minha Formação
-
-| Minha Formação | Meu Nível |
-| :--- | :--- |
-| **Graduanda Engenharia de Software na Universidade de Vassouras** | **Júnior em Java**<br><br> |
-
 ---
 
 ## 💻 Principais Linguagens
+### Porcentagem de Utilização em meus repositórios
 
 | 🖥️ Linguagens de Programação | 🎨 Linguagens de Marcação/Estilo |
 | :---: | :---: |
@@ -38,11 +30,11 @@
 
 ---
 
-## 🧠 Principais Tecnologias
+## 🎓 Minhas Competências
 
-| TOP 1 - Linguagem Programação | Principais Tecnologias |
-| :--- | :--- |
-| <div align="center">**Java**</div> | <div align="center"><table><thead><tr><th align="center">Automação de Build</th><th align="center">IDEs</th><th align="center">Bancos de Dados</th></tr></thead><tbody><tr><td align="center"><img src="https://img.shields.io/badge/Gradle-6C2BD9?style=for-the-badge&logo=gradle&logoColor=white"/></td><td align="center"><img src="https://img.shields.io/badge/VS%20Code-6C2BD9?style=for-the-badge&logo=visualstudiocode&logoColor=white"/><br><img src="https://img.shields.io/badge/IntelliJ-6C2BD9?style=for-the-badge&logo=intellijidea&logoColor=white"/><br><img src="https://img.shields.io/badge/Android%20Studio-6C2BD9?style=for-the-badge&logo=androidstudio&logoColor=white"/></td><td align="center"><img src="https://img.shields.io/badge/MySQL-6C2BD9?style=for-the-badge&logo=mysql&logoColor=white"/></td></tr></tbody></table></div>|
+| Meu Nível | Minha Formação | Principais Tecnologias |
+| :--- | :--- | :--- |
+| **Júnior em Java**<br><br> | **Graduanda Engenharia de Software na Universidade de Vassouras** | <div align="center"><table><thead><tr><th align="center">Automação de Build</th><th align="center">IDEs</th><th align="center">Bancos de Dados</th></tr></thead><tbody><tr><td align="center"><img src="https://img.shields.io/badge/Gradle-6C2BD9?style=for-the-badge&logo=gradle&logoColor=white"/></td><td align="center"><img src="https://img.shields.io/badge/VS%20Code-6C2BD9?style=for-the-badge&logo=visualstudiocode&logoColor=white"/><br><img src="https://img.shields.io/badge/IntelliJ-6C2BD9?style=for-the-badge&logo=intellijidea&logoColor=white"/><br><img src="https://img.shields.io/badge/Android%20Studio-6C2BD9?style=for-the-badge&logo=androidstudio&logoColor=white"/></td><td align="center"><img src="https://img.shields.io/badge/MySQL-6C2BD9?style=for-the-badge&logo=mysql&logoColor=white"/></td></tr></tbody></table></div> |
 
 ---
 
