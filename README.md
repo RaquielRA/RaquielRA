@@ -19,15 +19,6 @@
 
 </div>
 
----
-
-## 💻 Principais Linguagens
-### Porcentagem de Utilização em meus repositórios
-
-| 🖥️ Linguagens de Programação | 🎨 Linguagens de Marcação/Estilo |
-| :---: | :---: |
-| <img src="https://img.shields.io/badge/Java-222222?style=for-the-badge&logo=java&logoColor=white"/><br><img src="https://img.shields.io/badge/▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯-40%25-6C2BD9?style=for-the-badge"/> <br><br> <img src="https://img.shields.io/badge/Python-222222?style=for-the-badge&logo=python&logoColor=white"/><br><img src="https://img.shields.io/badge/▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯-0%25-6C2BD9?style=for-the-badge"/> <br><br> <img src="https://img.shields.io/badge/JavaScript-222222?style=for-the-badge&logo=javascript&logoColor=white"/><br><img src="https://img.shields.io/badge/▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯-60%25-6C2BD9?style=for-the-badge"/> | <img src="https://img.shields.io/badge/HTML-222222?style=for-the-badge&logo=html5&logoColor=white"/><br><img src="https://img.shields.io/badge/▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯-41%25-6C2BD9?style=for-the-badge"/> <br><br> <img src="https://img.shields.io/badge/XML-222222?style=for-the-badge&logo=xml&logoColor=white"/><br><img src="https://img.shields.io/badge/▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯-8%25-6C2BD9?style=for-the-badge"/> <br><br> <img src="https://img.shields.io/badge/CSS-222222?style=for-the-badge&logo=css3&logoColor=white"/><br><img src="https://img.shields.io/badge/▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯-41%25-6C2BD9?style=for-the-badge"/> |
-
 
 
 ---
@@ -36,7 +27,7 @@
 
 | Meu Nível | Minha Formação | Principais Tecnologias |
 | :--- | :--- | :--- |
-| **Júnior em Java**<br><br> | **Graduanda Engenharia de Software na Universidade de Vassouras** | <div align="center"><table><thead><tr><th align="center">Automação de Build</th><th align="center">IDEs</th><th align="center">Bancos de Dados</th></tr></thead><tbody><tr><td align="center"><img src="https://img.shields.io/badge/Gradle-6C2BD9?style=for-the-badge&logo=gradle&logoColor=white"/></td><td align="center"><img src="https://img.shields.io/badge/VS%20Code-6C2BD9?style=for-the-badge&logo=visualstudiocode&logoColor=white"/><br><img src="https://img.shields.io/badge/IntelliJ-6C2BD9?style=for-the-badge&logo=intellijidea&logoColor=white"/><br><img src="https://img.shields.io/badge/Android%20Studio-6C2BD9?style=for-the-badge&logo=androidstudio&logoColor=white"/></td><td align="center"><img src="https://img.shields.io/badge/MySQL-6C2BD9?style=for-the-badge&logo=mysql&logoColor=white"/></td></tr></tbody></table></div> |
+| **Júnior em Java e Python**<br><br> | **Graduanda Engenharia de Software na Universidade de Vassouras** | <div align="center"><table><thead><tr><th align="center">Automação de Build</th><th align="center">IDEs</th><th align="center">Bancos de Dados</th></tr></thead><tbody><tr><td align="center"><img src="https://img.shields.io/badge/Gradle-6C2BD9?style=for-the-badge&logo=gradle&logoColor=white"/></td><td align="center"><img src="https://img.shields.io/badge/VS%20Code-6C2BD9?style=for-the-badge&logo=visualstudiocode&logoColor=white"/><br><img src="https://img.shields.io/badge/IntelliJ-6C2BD9?style=for-the-badge&logo=intellijidea&logoColor=white"/><br><img src="https://img.shields.io/badge/Android%20Studio-6C2BD9?style=for-the-badge&logo=androidstudio&logoColor=white"/></td><td align="center"><img src="https://img.shields.io/badge/MySQL-6C2BD9?style=for-the-badge&logo=mysql&logoColor=white"/></td></tr></tbody></table></div> |
 
 ---
 
