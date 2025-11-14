@@ -1,6 +1,6 @@
 <div align="center">
 
-# Desenvolvedora Full Stack | Web e Mobile
+# Desenvolvedora | Web e Mobile
 ---
 
 ### 🌐 Conecte-se comigo
