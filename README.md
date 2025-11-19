@@ -3,7 +3,7 @@
 # Desenvolvedora | Web e Mobile
 ---
 
-### 👋 Olá, Mundo! Eu sou Raquiel Ribeiro
+### 👋 Olá, fale comigo!
 <a href="https://raquielra.github.io" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Portfólio-310b59?style=for-the-badge" alt="Portfólio" />
 </a>
