@@ -1,6 +1,6 @@
 <div align="center">
 
-# Desenvolvedora | Web e Mobile
+<img src="github-banner.png" width="100%" />
 ---
 
 ### 👋 Olá, fale comigo!
